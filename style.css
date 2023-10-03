@@ -1,3 +1,14 @@
 body {
 	background-color: #2d2b3f;
+	color: #f6f7f4;
+}
+
+h1 {
+	text-align: center;
+	color: #d8dbdd;
+}
+
+h3 {
+	text-align: center;
+	padding: 70px 0;
 }
